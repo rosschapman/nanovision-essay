@@ -1,8 +1,8 @@
-## Notes 
+### Notes 
 **Rereadings and note taking on a Saturday morning 2/8/14**
 
 
-### Intro
+#### Intro
 
 
    * The future and the present collapsing
@@ -20,7 +20,7 @@
    * Def of nano vision (13) 
    * nanovision manages becoming while negotiating inevitability with an aversion to teleological grand narratives (15)
 
-### 1
+#### 1
 
    * Science and science fiction coterminous (p25)
    * Encountering nano tech produces a “cognitive shock”, an “epistemic virus” producing a “terminal identity" (27)
