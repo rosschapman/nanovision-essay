@@ -1,8 +1,6 @@
 ## nanovision-essay
 
-<div style="float: right; margin-left: 25px">
 <img src="http://ilmfan.com/img/articles/2003/0000000008/terminator_3_rise_machines.01.jpg" width="200" />
-</div>
 
 At the start of 2014 I read Colin Milburn's [*Nanovision: Engineering the future*](http://www.amazon.com/Nanovision-Engineering-Future-Colin-Milburn/dp/0822342650), a literary exploration (cultural critique) of nanotechnology.  Having recently started a job at Science Exchange, it was a perfect read to wonder about science as a non-scientist.
 
