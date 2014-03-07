@@ -16,6 +16,7 @@
 		* Phases 
 		* Xenomorphosis
 		* A body without organs 
+			*  "But every actual body also has a virtual dimension: a vast reservoir of potential traits, connections, affects, movements, etc." (Wikipedia)
 	* The discursive field of nanotech, including the critical writing on the subject, stages a few interesting "plays": 
 		* A battle of sex, where the gender binary is reaffirmed to help make sense of an alterity or abjection.
 		* A humanism vs a posthumanism || postbiological || cyborg.
