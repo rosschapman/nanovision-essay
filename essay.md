@@ -1,6 +1,6 @@
-I read a book recently that really excited my brain.  Have you read Colin Milburn's _Nanovision_?  I found it off a college reading list from my alma mater while seeking healing for a recent bout of TV addiction.  I had just started watching 30 Rock from season one. Again.
+Have you read Colin Milburn's _Nanovision_?  I found it off a college reading list from my alma mater while seeking healing for a recent bout of TV addiction.  I had just started watching 30 Rock from season one. Again.
 
-I liked the book so much I wanted to write about it.  Thus, the following adult education book report on a cultural critical text about the transformative science of nanotechnology and how humans are responding.  This is not really a review or an analysis in the strict sense.  There will be glances at parts of the book that made me want to reread all of Delueze and become a cyborg with tits.  And other parts that inspired an anti-misogynist fervor . Things like:
+I liked the book so much I wanted to write about it.  Thus, the following adult education book report on a culture critical text on nanotechnology and how humans are responding.  This is not really a review or an analysis in the strict sense.  There will be glances at parts of the book that made me want to reread all of Delueze and become a cyborg with tits.  And other parts that inspired an anti-misogynist fervor . Things like:
 
 **The science (real) and science-fiction (imaginary) of nanotech are equally powerful co-revolutionaries - though often at odds.**
 
@@ -8,23 +8,23 @@ I liked the book so much I wanted to write about it.  Thus, the following adult 
 
 **What's more, science/SciFi method and inquisition effect identity crisis of the best kind; the creation of cyborgs, "terminal identity," and postbiological life.**
 
-**Yet, there's a sad experience experience for us (scientists, filmmakers, politicians, etc...) when we meet nanotech.  Some seriously crazy possibilities and liberations are captured and held hostage through classic defense mechanisms: colonization of the atomic land to fight xenomorphosis; reifying dangers and doomsday outcomes (the enemy combatant) as female/woman/vagina in order to trump up support against a credible threat to male supremacy.  Various tactics to resist a healthy merger between the macro and micro, man and machine, something beyond Logos and classic teleologies of Man's manifest supremacy - which, as Milburn suggests throughout, may just be to stick a dick everywhere and evade the transformative vulnerability of love!**  
+**Yet, there's a sad experience experience for us (scientists, filmmakers, politicians, etc...) when we meet nanotech.  Some seriously crazy possibilities and liberations are captured and held hostage through classic defense mechanisms: colonization of the atomic land to fight xenomorphosis; reifying dangers and doomsday outcomes (the enemy combatant) as female/woman/vagina in order to trump up support against a credible threat to male phallic supremacy.  Various tactics to resist a healthy merger between the macro and micro, man and machine, something beyond Logos and classic teleologies of (white) Man's manifest supremacy - which, as Milburn suggests throughout, may just be to penetrate everywhere and a more transformative love!**  
 
-Milburn's writing levels on nanotechnology and the attendant cultural productions and discourse of scientists and science fiction auteurs alike.  He anoints this sciencey cultural space/surface/cyberspace as a visual field called *Nanovision*.  Anointed thus because the discourse of nanotechnology has drastically changed the way we "see" the world.  "It is a way of seeing space beyond the closure of an ocular centric regime that Gilles Delueze has called "haptic vision"...when sight discovers in itself a specific function of touch that is uniquely its own, distinct from its optical function." (85)  The scientific discoveries themselves proceed from a tech that literally allows a new sight and insight, a head-on contact so different than a distant gaze.  And Milburn deploys all your faves to help him make sense of the way that _Nanovision_ is doing that, and its cultural implications: 
+Milburn's book discusses nanotechnology and the attendant cultural productions and discourse of scientists and science fiction auteurs alike.  He creates the term *Nanovision* to describe this literally and literarily *visual* field.  Anointed thus because the discourse of nanotechnology has drastically changed the way we "see" the world.  "It is a way of seeing space beyond the closure of an ocular centric regime that Gilles Delueze has called "haptic vision"...when sight discovers in itself a specific function of touch that is uniquely its own, distinct from its optical function." (85)  We discover that the scientific breakthroughs themselves proceed from machines (STI) that create new sight and insight on the atomic field.  A virtualized physical contact so different than a subject-object perception across the distance of the erstwhile microscopic lens.  And Milburn deploys all your faves to help him make sense of the way that _Nanovision_ is new: 
 
 **Derrida and his simulacra.**
 **Lacan's sex stuff and real.**
 **Zizek's sublime.**
 **Kristeva's abjection.**
-**And my personal fave Deleuze and his body without organs.**  
+**And my personal fave: Deleuze and his body without organs.**  
 
-The book is for scientists, cultural critics, theorists, feminists alike.  Or, if you're like me, someone that drifts along the surface tension of these environs at different access points.  In some ways it is an ultimate deconstruction project, considering the subject is science operating where all matter and all that matters can be rearranged.  Regardless, because there's enough pinot involved, we're doing this and I hope you'll like it and maybe the read the book and talk about it with me later [@internetross](http://twitter.com/internetross).
+The book is for scientists, cultural critics, theorists, feminists alike.  Or, if you're like me, someone that drifts along the surface tension of these environs at different access points.  In some ways it is an ultimate deconstruction project, considering the subject matter is that thing where matter and all that matters is mutable.  Straight flux.  Regardless, because there's enough pinot involved, we're doing this and I hope you'll like it and maybe the read the book and talk about it with me over tea.
 
 ## The power of visions
 
 Nanotech's inception is often attributed to a visionary lecture Richard Feynman gave at Caltech in 1959 called *There's Plenty of Room at the Bottom*.  But Milburn is quick to point out that Feynman's speech uses language directly from Heinlein.  Whoops.  So science truly is a dialectic tango between the real and fantasy.
 
-This is a logical starting point because any analysis of nanotech that follows must include consideration of both the science _and_ science fiction that shapes its theory and practice. Otherwise we might miss whole impact of this new invention on our present and future materiality and subjectivity.  I'll explore these themes a bit more later but the science/fiction exploration responds with a mixed payload:
+Milburn seems compelled to begin at this meeting place, as if any analysis of nanotech must include consideration of both the science _and_ science fiction that shapes its theory and practice. Otherwise we might miss the whole impact of this new invention on our present and future materiality and subjectivity.  I'll explore these themes a bit more later but the science/fiction exploration responds with a mixed payload:
 
 ```javascript
 of possibilities (or fears) unleashed by the STM as it peers upon the atomic landscape
@@ -34,31 +34,39 @@ of fear (or excitement, jouissance) unleashed by imagined destruction by swarms 
 of by interior agents (example, example) shift us in relatively important  ways.  
 ----
 
-Here's a personal anecdote where I literally _felt_ this sci/fi melange (I guess a melange a trois with me in the middle?). 
+Here's a personal anecdote where I literally _felt_ this sci/fi menage. 
 
-I read Greg Bear's *Blood Music* shortly after *Nanovision*.  It's one of these examples of "hard" science fiction - where the science therein is validated _enough_ by experimental conclusions in first life labs, with published papers and so forth.  Books like these totally tango.  Milburn calls it  "semiotic drift" (44) - he's right that there is a kind of losing of way in this discursive space.  Reading _Blood Music_, you're own emotions and imaginations get into a small maytag - at once feeling the weight of this weird science's proximate believability, but also anxious wonderment that this has to be bullshit because the implications are too vast and dire (we will actually discuss this cognitive shock a bit later).  It's Baudrillard's precession of simulacra all over again.  It's not that the science and fiction exploit each other as copies or  some flattering inheritance,  but there's a continuous layering of realities; of needing each other, weaving their way through each other's suggestions - more of a cellular imbrication.  Maps on models on maps.  On stacks.  "Terminal circularity" (52) of science and fiction, of man and machine.  Ugh, yeah, science is never exact, but more like an [*Exactitude of Science*]().  We are all aware of this on some level as humans in our current networked age.  While we don't confront it's consequence in moments during our quotidian affairs...as average humans in the first world today who use computers to guide us through most areas of modern living or subject ourselves to Reality TV for entertainment, I'm certain we wonder more about what is the truth, even the material real, of our life experience than ever we did in the past.
+I read Greg Bear's *Blood Music* shortly after *Nanovision*.  It's one of these examples of "hard" science fiction - where the science driving the plot is validated just _enough_ by experimental conclusions in first life labs - published papers and so forth.  Books like these totally tango.  Milburn calls it  "semiotic drift" (44) - he's right that there is a kind of losing of way in literary worlds like these.  Reading _Blood Music_, you're own emotions and imaginations swirl in a maytag - you at once feel the weight of this weird science's proximate believability, but also anxious wonderment that this has to be bullshit because the implications are too vast and dire.  It's Baudrillard's precession of simulacra all over again.  It's not that the science and fiction exploit each other as copies or  some flattering inheritance,  but there's a continuous layering of realities; of needing each other, weaving their way through each other's suggestions - more of a cellular imbrication.  Maps on models on maps.  "Terminal circularity" (52) of science and fiction, of man and machine.  Ugh, yeah, science is never exact, but more like an [*Exactitude of Science*]().  
+
+We are all aware of this on some level as humans in our current networked age.  While we don't confront it's monumental consequence in moments during our quotidian affairs, the average  human of the first world uses computers to guide her through most arenas of modern living - work, relationships, etc... do you not wonder about the the truth, the material real, of your life?
 
 ```javascript
 // A JavaScript Poem
-likes == kisses on the couch
-mortgage payments == domain registration
-digital currency == minimum wage
+var likes == kisses on the couch(function(){
+	var mortgage payments == domain registration(function(){
+		var digital currency == minimum wage();
+	})
+})
 ```
+
+[Need some sort of transition here.]
 
 Even the "failure of disciplinary cohesion so far has certainly not diminished the sense that as a scientific field--perhaps unified in name only, but still a field--nanotechnology has *arrived*." (33)  And that's part of a more startling point!  Milburn's startling point.  Equipped with nanovision, whose planes and lines have been sharpening focus since 1959, we are already incorporated in a permanent imperative void of telos.  The story of nanotech cannot be told without reading in and through and between the lines, etc... of science and science fiction.  Together they fuel and accelerate an increasing speed into new futures while recombinating our present with new future imaginations.
 
 ## Fake boobs were sooooo pre-Singularity.
 
-_Nanovision_ is companion lit to Ray Kurzweil.  Milburn discusses nanotech as another innovation urging our ever-quickening nosedive toward the technological Singularity.  That is: a break with history, the end of spiritual and religious teleologic imperatives, and of course the beginning of posthuman existence.  
+_Nanovision_ is companion lit to Ray Kurzweil.  Milburn demonstrates nanotech as another innovation urging our ever-quickening nosedive toward the technological Singularity.  That is: a break with history, the end of spiritual and religious teleologic imperatives, and of course the beginning of posthuman existence.  
 
-Of course, nanotechnology is not the first thing to come along and problematize humanist perceptions of personhood and agency and accelerate the Singularity's event horizon.  Let's observe interactions with computers because I want to digress just a little bit into personal narrative.  It's the pinot.
+Of course, nanotechnology is hardly the first thing to come along and problematize humanist perceptions of personhood and agency and accelerate the Singularity's event horizon.  Let's observe interactions with computers because I want to digress just a little bit into personal narrative.  It's the pinot.
 
-When I was twelve years old I would pose as a 22F (or some such) in AOl sex chat rooms under the screen name rchap1, exploring nascent sexual desire.  A screen name could be, was, a totally non-gendered, non-human signifier.  The sack of cells and water at a desk on Chicago's north side was becoming moot with networked key punches.  By the early '90s we see terminal identity activated; way before I knew how to sudo on the command line...myself was extended into virtual infinity. An initial human biological id urge encoded into digital fantasy.
+When I was twelve years old I would pose as a 22F (or some such) in AOL sex chat rooms, a little horn-ball who had discovered a realm where you could get nasty with who you were and what you said.  How liberating that a screen name could be, was, a totally non-gendered, non-human signifier.  The sack of cells and water at a desk on Chicago's north side was becoming moot with networked key punches.  I'd say by the early '90s we see terminal identity truly activated amongst a growing class of digital elite. Way before I knew how to sudo...myself was extended into virtual infinity. An initial human biological id urge encoded into digital fantasy.
 
-The information age is an insane era.  And the Internet of Things is upon us, too, already!  The future is never the same anymore. But Milburn sees nanotech as a special key piece to explore because the technology of the small, and the interior, totally collapses the separation of man and machine.  "It's construction of bodies and machines are mutually constitutive." (51)  Like, we're not talking about the relative safety of virtual queering and collapse of space on a computer screen, in Chicago and on millions of other consoles. Nanotech super sizes the problematic: "sex and sexuality made infinitely malleable, sexual difference slipping into sexual indeterminacy or deferral" (53) because it's [_physical_](https://www.youtube.com/watch?v=vWz9VN40nCA&feature=kp).   
+Nanotech is a special urge toward the Singularity because it's "construction of bodies and machines are mutually constitutive." (51)  The technology of the small, and the interior, totally collapses the separation of man and machine.    Like, even virtual queering and collapse of space on a computer screen - whether in Chicago or on millions of other consoles - is a half-step because there's an off switch. But nanotech super sizes the problematic: "sex and sexuality made infinitely malleable, sexual difference slipping into sexual indeterminacy or deferral" (53) because it's [_physical_](https://www.youtube.com/watch?v=vWz9VN40nCA&feature=kp).  
 
 Gender non-conformist cis-boy boss tycoons up in this *.biz.
 Exponential explosion, infinite excess of possibility.  
+
+The future is never the same anymore.  
 
 Nanotech's promises don't simply extend our contract with technology and an enhanced existence; distinctions between the tech, mech, and man are gone.  Nanotech makes an absolute claim on our human corpus from the inside out and materiality seems no longer...so simple.  Integration (rather than separation) anxiety!  Tony Stark won't be able to leave the suit!  Actually, each cell of his body will become an iron man. A bazillion little Jarvis'.
 
