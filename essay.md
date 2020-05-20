@@ -1,6 +1,4 @@
-Have you read Colin Milburn's _Nanovision_?  I found it off a college reading list from my alma mater while seeking healing for a recent bout of TV addiction.  I had just started watching 30 Rock from season one. Again.
-
-I liked the book so much I wanted to write about it.  Thus, the following adult education book report on a culture critical text on nanotechnology and how humans are responding.  This is not really a review or an analysis in the strict sense.  There will be glances at parts of the book that made me want to reread all of Delueze and become a cyborg with tits.  And other parts that inspired an anti-misogynist fervor . Things like:
+Highlights:
 
 **The science (real) and science-fiction (imaginary) of nanotech are equally powerful co-revolutionaries - though often at odds.**
 
